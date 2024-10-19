@@ -35,7 +35,6 @@ or <a href="mailto:kartikey.agrawal04@gmail.com"><b>email</b></a> me.
 ### 🚀Connect with me:
 <div align="center">
 <a href="https://kartikey/app"><img alt="Website" title="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-
  <a href="https://www.linkedin.com/in/kartikeyag/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="https://x.com/kartikeyforyou"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   </div>
