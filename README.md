@@ -11,7 +11,7 @@
 <h1 style="color:blue;" align="center"><strong>Kartikey Agrawal</strong></h1>
 <h4 align="center">Frontend. Backend. Everything</h4>
 
-<img align="left" width="180" src="https://i.gifer.com/5Mys.gif" alt="octocat">
+<img align="left" width="200" src="https://i.gifer.com/3f0J.gif" alt="octocat">
 
 ```diff
 hi, im Kartikey 🔮
